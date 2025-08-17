@@ -2,7 +2,7 @@ name: myenv
 channels:
   - defaults
 dependencies:
-  - python=3.12
+  - python=3.11.3
   - numpy
   - pip
   - pip:
